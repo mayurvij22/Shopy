@@ -14,7 +14,7 @@ Responsive Design: Optimized for both desktop and mobile devices.
 
 Tech Stack
 
-Frontend Framework: ReactJS or Next.js
+Frontend Framework: ReactJS 
 
 Styling: CSS Modules/Tailwind CSS
 
