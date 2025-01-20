@@ -22,7 +22,7 @@ State Management: Context API/Redux
 
 Icons: React Icons
 
-Package Manager: npm or yarn
+Package Manager: npm
 
 Installation
 
